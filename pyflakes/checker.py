@@ -1,3 +1,4 @@
+#change
 # -*- test-case-name: pyflakes -*-
 # (c) 2005-2010 Divmod, Inc.
 # See LICENSE file for details
@@ -182,7 +183,7 @@ class Checker(object):
     """
 
     nodeDepth = 0
-    traceTree = False
+    traceTree = True
 
     def __init__(self, tree, filename='(none)'):
         self._deferredFunctions = []
