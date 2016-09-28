@@ -183,7 +183,8 @@ class Checker(object):
     """
 
     nodeDepth = 0
-    traceTree = True
+    traceTree = False
+
 
     def __init__(self, tree, filename='(none)'):
         self._deferredFunctions = []
