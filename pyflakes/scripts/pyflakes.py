@@ -3,11 +3,11 @@
 Implementation of the command-line I{pyflakes} tool.
 """
 
-import sys
-import os
-import _ast
-import getopt
-import textwrap
+#import sys
+#import os
+#import _ast
+#import getopt
+#import textwrap
 
 checker = __import__('pyflakes.checker').checker
 
