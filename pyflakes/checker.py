@@ -4,7 +4,7 @@
 # See LICENSE file for details
 
 
-#testtt
+#testing
 import __builtin__
 import os.path
 import _ast
