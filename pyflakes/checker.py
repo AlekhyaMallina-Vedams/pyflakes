@@ -5,7 +5,7 @@
 import __builtin__
 import os.path
 import _ast
-#new test
+#new testing
 from pyflakes import messages
 
 
