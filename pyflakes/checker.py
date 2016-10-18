@@ -17,10 +17,7 @@ try:
     iter_child_nodes = ast.iter_child_nodes
 except (ImportError, AttributeError):
     def iter_child_nodes(node, astcls=_ast.AST):
-        """
-        Yield all direct child nodes of *node*, that is, all fields that are nodes
-        and all items of fields that are lists of nodes.
-        """
+       
         for name in node._fields:
             field = getattr(node, name, None)
             if isinstance(field, astcls):
