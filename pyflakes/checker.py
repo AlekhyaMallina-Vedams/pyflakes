@@ -1,6 +1,6 @@
 #change
 # -*- test-case-name: pyflakes -*-
-# (c) 2005-2010 Divmod, Inc.sdsd
+# (c) 2005-2010 Divmod, Inc.sdsdsdfdsfdfsd
 #sdfsdasdsadsdafdsfasasdsadas
 
 import __builtin__
