@@ -10,10 +10,7 @@ import _ast
 from pyflakes import messages
 
 
-# utility function to iterate over an AST node's children, adapted
-# from Python 2.6's standard ast module
-#sdfgdfgdfgdsfgsfdg
-#dfgdfghdfhdfhdf
+
 try:
     import ast
     iter_child_nodes = ast.iter_child_nodes
