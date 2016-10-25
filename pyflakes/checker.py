@@ -7,9 +7,7 @@ import __builtin__
 import os.path
 import _ast
 from pyflakes import messages
-#fghfghfg
-#fghghfghghgh
-#sdfsdf
+
 # utility function to iterate over an AST node's children, adapted
 # from Python 2.6's standard ast module
 try:
