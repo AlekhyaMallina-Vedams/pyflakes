@@ -2,10 +2,7 @@
 # -*- test-case-name: pyflakes -*--
 # (c) 2005-2010 Divmod, Inc.
 # See LICENSE file for details
-#gfccccccccccccccj
-#gddddddddddddh
-#dyyyyyyyyyyyyyyyyyyyyyu
-#dfgdfgdfgdfgdfgdfgdf
+
 import __builtin__
 import os.path
 import _ast
