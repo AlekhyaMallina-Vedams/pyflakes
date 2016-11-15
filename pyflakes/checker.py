@@ -27,6 +27,7 @@ except (ImportError, AttributeError):
                     yield item
 
 
+                    
 class Binding(object):
     """
     Represents the binding of a value to a name.
