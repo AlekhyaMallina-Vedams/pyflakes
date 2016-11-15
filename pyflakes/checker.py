@@ -1,11 +1,6 @@
 #change
 # -*- test-case-name: pyflakes -*-
 # (c) 2005-2010 Divmod, Inc.sdsdsdfdsfdfsd
-#twessdfdf
-
-import __builtin__
-import os.path
-import _ast
 
 from pyflakes import messages
 
