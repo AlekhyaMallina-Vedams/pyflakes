@@ -1,4 +1,5 @@
 0.4.0 (2009-11-25):
+fsdfsdf
   - Fix reporting for certain SyntaxErrors which lack line number
     information.
   - Check for syntax errors more rigorously.
